@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @digital21st
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vitalii Shvets!
+- 👀 I’m interested in web | mobile | game | blockchaind development.
+- 🌱 I've recently worked on building large all-in-one platform of CMS, CRM, and DAM system.
+- 💞️ I’m looking to work on great opportunity
+- 📫 How to reach me : shvets12345@ukr.net
 
 <!---
 digital21st/digital21st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
