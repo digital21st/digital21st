@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vitalii Shvets!
-- 👀 I’m interested in web | mobile | game | blockchaind development.
+- 👀 I’m interested in web | mobile | AI development.
 - 🌱 I've recently worked on building large all-in-one platform of CMS, CRM, and DAM system.
 - 💞️ I’m looking to work on great opportunity
 
